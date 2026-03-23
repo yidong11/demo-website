@@ -1,9 +1,9 @@
 ---
 ---
 
-# CC's Website
+# MHI Lab's Website
 
-Its HKU CC's lab website.
+Its HKU MHI Lab's website.
 
 {% include section.html %}
 
